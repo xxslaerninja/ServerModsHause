@@ -1,0 +1,3 @@
+Remove your old mod folder in %appdata% same with Flan
+
+If Flan mod is not there just drag Flan into there same with mods into the %appdata% folder
